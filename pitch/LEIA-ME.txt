@@ -1,0 +1,18 @@
+SimPay — pitch revisado
+
+EN: 17 slides em inglês. PT: 17 slides em português.
+EN-PT: deck completo de 34 slides, inglês primeiro.
+A sequência e a identidade visual do original foram preservadas.
+Sobreposições da exportação e recortes de texto foram corrigidos.
+Campos vazios de equipe, números e metas foram substituídos por conteúdo do produto, sem inventar dados.
+Recuperação por PIN alinhada à versão confirmada pelo usuário.
+
+Slide 9 de cada edição: clique no simulador em modo de apresentação para reproduzir o clipe incorporado de aproximadamente cinco segundos.
+No PDF, o clipe aparece como imagem estática.
+Os dois MP4 também estão na pasta clips para uso na edição da gravação.
+A reprodução dos arquivos H.264 foi verificada quanto à integridade e duração; o comportamento no seu PowerPoint deve ser conferido antes de gravar.
+
+As capturas mostram o institucional, formulários vazios e valores de simulação. Não há dados de clientes nem pagamentos reais.
+O fluxo Pix exibido é a entrada do checkout, sem geração de cobrança.
+Declarações existentes sobre segurança e testes foram mantidas do deck fornecido, sem validação técnica independente.
+O arquivo original enviado e o Figma não foram alterados.
