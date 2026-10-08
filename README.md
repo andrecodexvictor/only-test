@@ -4,12 +4,12 @@ Deck revisado em inglês e português, preservando a identidade visual e a sequ�
 
 ## Downloads
 
-[Baixar o pacote completo (ZIP)](https://github.com/andrecodexvictor/only-test/releases/download/simpay-pitch-2026-10-08/SimPay-Pitch-Final.zip)
+[Baixar o pacote completo (ZIP)](https://raw.githubusercontent.com/andrecodexvictor/only-test/main/pitch/SimPay-Pitch-Final.zip)
 
-- [PowerPoint em português](https://github.com/andrecodexvictor/only-test/releases/download/simpay-pitch-2026-10-08/SimPay-Pitch-PT.pptx)
-- [PowerPoint em inglês](https://github.com/andrecodexvictor/only-test/releases/download/simpay-pitch-2026-10-08/SimPay-Pitch-EN.pptx)
-- [PowerPoint com os dois idiomas](https://github.com/andrecodexvictor/only-test/releases/download/simpay-pitch-2026-10-08/SimPay-Pitch-EN-PT.pptx)
-- [PDF com os dois idiomas](https://github.com/andrecodexvictor/only-test/releases/download/simpay-pitch-2026-10-08/SimPay-Pitch-EN-PT.pdf)
+- [PowerPoint em português](https://raw.githubusercontent.com/andrecodexvictor/only-test/main/pitch/SimPay-Pitch-PT.pptx)
+- [PowerPoint em inglês](https://raw.githubusercontent.com/andrecodexvictor/only-test/main/pitch/SimPay-Pitch-EN.pptx)
+- [PowerPoint com os dois idiomas](https://raw.githubusercontent.com/andrecodexvictor/only-test/main/pitch/SimPay-Pitch-EN-PT.pptx)
+- [PDF com os dois idiomas](https://raw.githubusercontent.com/andrecodexvictor/only-test/main/pitch/SimPay-Pitch-EN-PT.pdf)
 
 Cada idioma tem 17 slides. O deck combinado tem 34 slides, inglês primeiro.
 
